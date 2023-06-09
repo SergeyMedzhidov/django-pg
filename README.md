@@ -1,2 +1,2 @@
 # django-pg
-Приложение на Django с уже написанным Dockerfile
+Приложение на Django с написанным Dockerfile
